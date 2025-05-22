@@ -13,7 +13,7 @@
     "styled-components": "^6.1.18",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://vishal-kannan.github.io/chunk-mate",
+  "homepage": "https://vishal-kannan.github.io/Chunk-Mate",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
